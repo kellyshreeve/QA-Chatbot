@@ -10,7 +10,9 @@ import chainlit as cl
 from huggingface_hub import login
 import torch
 
-login(token='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')
+import config
+
+login(token=config.hugging_face_token)
 
 model_id = "TheBloke/Llama-2-13B-chat-GGML"
 
