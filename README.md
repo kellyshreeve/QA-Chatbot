@@ -1,5 +1,12 @@
 ## Generative Answer Chat Bot
 
+<p align="center">
+  <img src="images/chatbot-image.png"
+  width="600"
+  height="300"
+  alt="Image of a cartoon AI chatbot">
+</p>
+
 **Background**: DataSpeak consulting wanted an AI customer service chatbot that could be used across multiple clients. This chatbot can learn from a dataset and answer questions on domain-specific knowledge. 
 
 **Purpose**: There were three goals for the chatbot:    
@@ -22,7 +29,7 @@
 
 * The model is able to accurately respond to open-ended questions with information from the dataset in under 5min on GPU.
 
-###### Multiple-Choice Question Answering
+##### Multiple-Choice Question Answering
 
 <p align="center">
   <img src="images/multiple-choice-question.png"
@@ -40,7 +47,7 @@
 2. Get a Hugging Face API Key and add to config.py file.
 3. Install requirements.txt
 4. Run chainlit locally through terminal:  
-```run chainlit final_chainlit_app.py``
+```run chainlit final_chainlit_app.py```
 
 ### Data  
 
