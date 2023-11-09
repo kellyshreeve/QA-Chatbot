@@ -10,7 +10,7 @@ import chainlit as cl
 from huggingface_hub import login
 import torch
 
-import modules.config as config
+import config
 
 login(token=config.hugging_face_token)
 

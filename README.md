@@ -46,7 +46,8 @@
 1. Register to use Llama-2 on Meta.
 2. Get a Hugging Face API Key and add to config.py file.
 3. Install requirements.txt
-4. Run chainlit locally through terminal:  
+4. Link in a new context dataset
+5. Run chainlit locally through terminal:  
 ```run chainlit final_chainlit_app.py```
 
 ### Data  
