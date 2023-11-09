@@ -7,7 +7,7 @@
   alt="Image of a cartoon AI chatbot">
 </p>
 
-**Background**: <p><a href="https://dataspeak.co/about"> DataSpeak</a></p> consulting wanted an AI customer service chatbot that could be used across multiple clients. This chatbot can learn from a dataset and answer questions on domain-specific knowledge. 
+**Background**: <a href="https://dataspeak.co/about" target="_blank"> DataSpeak</a> consulting wanted an AI customer service chatbot that could be used across multiple clients. This chatbot can learn from a dataset and answer questions on domain-specific knowledge. 
 
 **Purpose**: There were three goals for the chatbot:    
  1. Generate answers in full english  
