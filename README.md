@@ -9,7 +9,9 @@
 
 **Techniques**: RAG Llama-2, LangChain, LLMs  
 
-### Example
+### Examples  
+
+##### Open-Ended Question Answering  
 
 <p align="center">
   <img src="images/open-ended-question.png"
@@ -19,6 +21,8 @@
 </p>
 
 * The model is able to accurately respond to open-ended questions with information from the dataset in under 5min on GPU.
+
+###### Multiple-Choice Question Answering
 
 <p align="center">
   <img src="images/multiple-choice-question.png"
@@ -36,17 +40,11 @@
 2. Get a Hugging Face API Key and add to config.py file.
 3. Install requirements.txt
 4. Run chainlit locally through terminal:  
-'''run chainlit final_chainlit_app.py'''
+```run chainlit final_chainlit_app.py``
 
-### Data
+### Data  
 
-#### Source Data  
-
-*questions.csv*
-
-*answers.csv*
-
-### Data Acquisition  
+#### Data Acquisition  
 
 Data for this project came from a public dataset of python questions and answers from Kaggle.  
 
