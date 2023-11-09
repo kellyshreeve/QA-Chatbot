@@ -25,7 +25,7 @@ llm = CTransformers(
   config={'context_length':700}
   )
 
-with open('/Users/kellyshreeve/Desktop/Data-Sets/Externship/context_shortest.txt') as f:
+with open('context.txt') as f:
     text = f.read()
 
 text_splitter = RecursiveCharacterTextSplitter(chunk_size=400, chunk_overlap=0)
