@@ -10,7 +10,7 @@
 **Background**: An externship project with <a href="https://dataspeak.co/about" target="_blank">DataSpeak</a>, a data science consulting firm, to develop an AI customer service chatbot that could be used across multiple clients. This chatbot learns from a dataset and answer questions on domain-specific knowledge. 
 
 **Purpose**: There were three goals for the chatbot:    
- 1. Generate answers in full english  
+ 1. Generate answers to user questions
  2. Pull information from a domain specific dataset  
  3. Produce accurate answers  
 
