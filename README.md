@@ -50,7 +50,7 @@
 3. Install requirements.txt
 4. Link in a new context dataset
 5. Run chainlit locally through terminal:  
-```run chainlit final_chainlit_app.py```
+```chainlit run final_chainlit_app.py```
 
 ### Data  
 
