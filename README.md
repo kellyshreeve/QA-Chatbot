@@ -68,7 +68,7 @@ Data Link: https://www.kaggle.com/datasets/stackoverflow/pythonquestions
 
 ### Further Research and Development
 
-[View Project Code](https://github.com/kellyshreeve/QA-Chatbot/blob/main/final_chainlit_app.py)
-
 This model should be tested on each domain-specific dataset to ensure it is able to learn accurate answers to common customer questions. Additionally response times can be sped up by running the app through GPU and vector storage in Pinecone. This app will can be deployed over a web service for use by customers.
 
+
+[View Project Code](https://github.com/kellyshreeve/QA-Chatbot/blob/main/final_chainlit_app.py)
