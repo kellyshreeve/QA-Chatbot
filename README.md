@@ -22,6 +22,8 @@
 
 ##### Open-Ended Question Answering  
 
+The model accurately responds to open-ended questions with information from the dataset in under 5min on GPU.
+
 <p align="center">
   <img src="images/open-ended-question.png"
   width="600"
@@ -29,9 +31,9 @@
   alt="Chainlit App open ended question example">
 </p>
 
-* The model is able to accurately respond to open-ended questions with information from the dataset in under 5min on GPU.
-
 ##### Multiple-Choice Question Answering
+
+The model correctly picks from a list of multiple choice questions, displaying accuracy when answering customer questions.
 
 <p align="center">
   <img src="images/multiple-choice-question.png"
@@ -39,8 +41,6 @@
   height="300"
   alt="Chainlit App multiple choice question example">
 </p>
-
-* The model is able to correctly pick from a list of multiple choice questions, displaying model accuracy when answering customer questions.
 
 
 ### Getting Started  
