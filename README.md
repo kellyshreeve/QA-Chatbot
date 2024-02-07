@@ -56,7 +56,7 @@ The model correctly picks from a list of multiple choice questions, displaying a
 UPDATED: ```chainlit_app.py```
 1. Register to use Llama-2 on Meta.
 2. Get a Hugging Face API Key.
-3. Create a .env file and add your API key:
+3. Create a .env file and add your API key:  
 ```HUGGING_FACE_KEY='YOUR KEY HERE'```
 3. Install requirements.txt
 4. Link in a new context dataset
