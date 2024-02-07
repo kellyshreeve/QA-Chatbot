@@ -45,12 +45,24 @@ The model correctly picks from a list of multiple choice questions, displaying a
 
 ### Getting Started  
 
+```final_chainlit_app.py```
 1. Register to use Llama-2 on Meta.
 2. Get a Hugging Face API Key and add to config.py file.
 3. Install requirements.txt
 4. Link in a new context dataset
 5. Run chainlit locally through terminal:  
 ```chainlit run final_chainlit_app.py```
+
+UPDATED: ```chainlit_app.py```
+1. Register to use Llama-2 on Meta.
+2. Get a Hugging Face API Key.
+3. Create a .env file and add your API key:
+```HUGGING_FACE_KEY='YOUR KEY HERE'```
+3. Install requirements.txt
+4. Link in a new context dataset
+5. Run chainlit locally through terminal:  
+```chainlit run chainlit_app.py```
+
 
 ### Data  
 
